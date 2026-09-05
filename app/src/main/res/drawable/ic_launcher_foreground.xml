@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:pivotX="54"
+        android:pivotY="54"
+        android:scaleX="0.75"
+        android:scaleY="0.75"
+        android:translateX="13.5"
+        android:translateY="13.5">
+        <!-- Shelter roof -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,16L18,46h10v36h52V46h10L54,16z M54,29.5L72,44.5V74H36V44.5L54,29.5z" />
+        <!-- Child / Care Symbol inside shelter -->
+        <!-- Child Head -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,42m-6,0a6,6 0,1 1,12 0a6,6 0,1 1,-12 0" />
+        <!-- Child Arms & Heart/Body -->
+        <path
+            android:fillColor="#FFFFFF"
+            android:pathData="M54,51c-6.63,0 -12,4.03 -12,9v6h24v-6c0,-4.97 -5.37,-9 -12,-9z" />
+    </group>
+</vector>

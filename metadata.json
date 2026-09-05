@@ -1,0 +1,7 @@
+{
+  "name": "Bal Bhawan",
+  "description": "NGO child care and shelter management system for children profiles, daily activities, health tracking, and donations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
